@@ -15,4 +15,5 @@ class Dog
    @@all.each do |name|
      print name
    end
+ end
 end
